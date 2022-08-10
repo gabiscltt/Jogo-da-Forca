@@ -1,10 +1,15 @@
 Jogo da forca utilizando Python. Detalhes sobre o projeto:
 
 🤍 Usando a biblioteca Random, o código irá sortear uma palavra dentro do banco de palavras.
+
 🤍 Caso a palavra sorteada tenha mais do que 8 caracteres, uma das letras será mostrada ao jogador. 
+
 🤍 Caso o jogador acerte uma das letras, ela será adicionada aos acertos.
+
 🤍 Caso o jogador erre a letra, ele perde uma vida.
-🤍 O jogo acaba quando o jogador acertar a palavra ou ter 6 erros. 
+
+🤍 O jogo acaba quando o jogador acertar a palavra ou ter 6 erros.
+
 
 ____________________________________________________________
 
